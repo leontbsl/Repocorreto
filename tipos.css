@@ -22,19 +22,35 @@ h3{
     color:rgb(127, 155, 82);
 }
 
+h4{
+    text-align: left;
+    font-style: oblique;
+    background-color: rgba(133, 179, 73, 0.685); 
+    color:rgb(127, 155, 82);
+}
+
+h5{
+    text-align: left;
+    font-style: oblique;
+    background-color: rgba(133, 179, 73, 0.685); 
+    color:rgb(127, 155, 82);
+}
 
 .briófitas{
    width: 500px;
    height: fit-content; 
 }
+
 .Pteridófitas{
     width: 500px;
     height: auto;
 }
+
 .Gimnospermas{
     width: 500px;
     height:fit-content; 
 }
+
 .Angiospermas{
     width: 500px;
     height: auto;
