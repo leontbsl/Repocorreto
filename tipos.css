@@ -41,7 +41,7 @@ h5{
 }
 .Gimnospermas{
     width: 500px;
-    height: auto;
+    height:fit-content;
 }
 .Angiospermas{
     width: 500px;
