@@ -7,6 +7,30 @@ h1{
     background-color: rgba(133, 179, 73, 0.685); 
     color:rgb(127, 155, 82);
 }
+h2{
+    text-align: left;
+    font-style: oblique;
+    background-color: rgba(133, 179, 73, 0.685); 
+    color:rgb(127, 155, 82);
+}
+h3{
+    text-align: left;
+    font-style: oblique;
+    background-color: rgba(133, 179, 73, 0.685); 
+    color:rgb(127, 155, 82);
+}
+h4{
+    text-align: left;
+    font-style: oblique;
+    background-color: rgba(133, 179, 73, 0.685); 
+    color:rgb(127, 155, 82);
+}
+h5{
+    text-align: left;
+    font-style: oblique;
+    background-color: rgba(133, 179, 73, 0.685); 
+    color:rgb(127, 155, 82);
+}
 .briófitas{
    width: 500px;
    height: fit-content; 
